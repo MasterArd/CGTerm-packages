@@ -1,6 +1,9 @@
 {
   "name":"preview",
   "version":"0"
-  "content": [ 
-    "":""
-  }
+  "content": [
+    "app.go",
+    "helper.go",
+    "aditional-stuff.json"
+  ]
+}
